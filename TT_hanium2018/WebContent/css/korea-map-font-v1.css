@@ -1,0 +1,93 @@
+@font-face {
+	font-family: 'KoreaMapFontV1';
+	src: url("../font/korea-map-font-v1.eot");
+	src: url("../font/korea-map-font-v1.eot?#iefix") format("embedded-opentype"), url("../font/korea-map-font-v1.woff") format("woff"), url("../font/korea-map-font-v1.ttf") format("truetype"), url("../font/korea-map-font-v1.svg#koreamapfontv1regular") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.korea-map-font-v1 {
+	font-size:300px;
+	color:#f0f0f0;
+	font: normal normal 300px/100% "KoreaMapFontV1";
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	-ms-text-rendering: optimizeLegibility;
+	-o-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLigibility;
+	-moz-font-feature-settings: "liga-1";
+	-ms-font-feature-settings: "liga" 1;
+	-ms-font-feature-settings: "liga", "dlig";
+	overflow: hidden;
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+.korea-map-font-v1 li {
+	float: left;
+	margin: -20% 0 0 -100%;
+	position: relative;
+	left: 101%;
+	width: 100%;
+	cursor: default;
+	-webkit-transition: all 1s ease-in;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.강원{
+	color:#006E00;
+}
+.경기{
+	color:#3DB7CC;
+}
+.경남{
+	color:#FF5E00;
+}
+.경북{
+	color:#ff00DD;
+}
+.광주{
+	color:#997000;
+}
+.대구{
+	color:#FFE400;
+}
+.대전{
+	color:#A566FF;
+}
+.부산{
+	color:#0100FF;
+}
+.서울{
+	color:#FF4848;
+}
+.세종{
+	color:#000000;
+}
+.울산{
+	color:#489CFF;
+}
+.인천{
+	color:#00D8FF;
+}
+.전남{
+	color:#D1B2FF;
+}
+.전북{
+	color:#670000;
+}
+.제주{
+	color:#1DDB16;
+}
+.충남{
+	color:#C4B73B;
+}
+.충북{
+	color:#86E57F;
+}
