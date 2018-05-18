@@ -1,0 +1,37 @@
+.header{
+	margin : 50px;
+	margin-left : 50%;
+	font-size : 30pt;
+}	
+
+.container{
+	vertical-align:middle;
+	text-align:center;
+	border: 2px solid;
+	padding:30px;
+}
+.box{
+	float: left;
+	width: 30%;
+	font-size:15pt;
+}
+.button{
+	text-align:right;
+	size : 15pt;
+}
+
+.imageBox{
+	text-align:center;
+	margin-top:50px;
+}
+.image{
+	float: left;
+	width: 33%;
+	margin-bottom:50px;
+
+}
+.textBox{
+	margin-top:15px;
+	font-size:15pt;
+	text-align:center;
+}
