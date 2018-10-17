@@ -1,0 +1,34 @@
+@charset "UTF-8";
+#jb-container {
+	width: 100%;
+	margin: 0px auto;
+	padding: 5px;
+}
+
+#jb-header {
+	margin-bottom: 20px;
+}
+
+#jb-content {
+	width: 60%;
+	height: 80%;
+	margin-top: 50px;
+	padding: 30px;
+	left: 600px;
+	margin-right: 100px;
+	float: right;
+	font-family: 'NanumSquareRound', sans-serif;
+	position: absolute;
+}
+
+#jb-sidebar {
+	background-color: #d1e1fc;
+	width: 340px;
+	padding: 20px;
+	margin: 25px;
+	float: left;
+	position: absolute;
+	top: 50px;
+	margin-left: 100px;
+	height: 80%;
+}
