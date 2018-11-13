@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -163,8 +163,8 @@
 			<div class="col-md-4 mb-4">
 				<div class="card h-100">
 					<div class="card-body">
-						<h2 class="card-title">추천3</h2>
-						<p class="card-text">좋아요 순으로 인기있는 맛집 랜덤 추천</p>
+						<h2 class="card-title">학교 광고</h2>
+						<p class="card-text">뿌리 튼튼~</p>
 					</div>
 					<div class="card-footer">
 						<a href="#" class="btn btn-primary">자세히 보기</a>
